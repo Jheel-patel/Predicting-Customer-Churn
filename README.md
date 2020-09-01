@@ -6,3 +6,6 @@ My goal is to build a model to predict whether a customer will churn or not base
 
 
 This data set consists of 100 variables and approx 100 thousand records. It contains different variables explaining the telecom industry's attributes and various factors considered important while dealing with customers of the telecom industry. The target variable here is churn, which explains whether the customer will churn or not. We can use this data set to predict the customers who would churn or who wouldn't churn, depending on various variables available.
+
+
+<img src="https://s16353.pcdn.co/wp-content/uploads/2018/06/Churn.png" width="500">
