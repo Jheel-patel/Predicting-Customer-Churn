@@ -129,7 +129,10 @@ This data set consists of 100 variables and approx 100 thousand records. It cont
 |  UNAN_VCE_RANGE  |  Range of number of unanswered voice calls  |
 |  VCEOVR_MEAN  |  Mean revenue of voice overage  |
 |  VCEOVR_RANGE  |  Range of revenue of voice overage  |
+
+
 |  Category Variables  |  Explanation  |
+| :---: | :---: |
 |  ACTVSUBS  |  Number of active subscribers in household  |
 |  ADULTS  |  Number of adults in household  |
 |  AGE1  |  Age of first household member  |
